@@ -1,0 +1,38 @@
+{
+   "airquality":[
+  {
+  "Idcapt": 1,
+  "Iqa": 4,
+  "coordonnees": {
+    "latitude": 41.97,
+    "longitude": -71.36},
+  "conponement":
+    {
+      "co": 400.54,
+      "no": 0.04,
+      "no2": 0.09,
+      "o3": 217.44,
+      "so2": 373.84,
+      "pm2.5":44.57,
+      "pm10": 59.44
+    }
+},
+  {
+  "Idcapt": 2,
+  "Iqa": 4,
+  "coordonnees": {
+    "latitude": 41.97,
+    "longitude": -71.36},
+  "conponement":
+    {
+      "co": 400.54,
+      "no": 0.04,
+      "no2": 0.09,
+      "o3": 217.44,
+      "so2": 373.84,
+      "pm2.5":44.57,
+      "pm10": 59.44
+    }
+}
+]
+}
